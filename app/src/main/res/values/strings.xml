@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LoginPage</string>
     <string name="umbrellacorp">UMBRELLACORP</string>
+    <string name="button_sign">SIGN IN</string>
 </resources>

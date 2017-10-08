@@ -89,9 +89,11 @@
         <Button
             android:id="@+id/button"
             android:layout_width="120dp"
-            android:layout_height="60dp"
+            android:layout_height="50dp"
             android:layout_marginBottom="30dp"
-            android:text="SIGN IN"
+            android:text="@string/button_sign"
+            android:textSize="18sp"
+            android:background="#ffffff"
             android:textColor="#2F95DC" />
 
         <TextView

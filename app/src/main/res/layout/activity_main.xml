@@ -28,6 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
+
         android:orientation="vertical"
         android:padding="30dp">
 
@@ -45,6 +46,7 @@
                 android:layout_height="wrap_content"
                 android:hint="Sign in with email"
                 android:inputType="textEmailAddress"
+
                 android:textColor="@color/white_75_transparent"
                 android:textColorHighlight="@color/white_75_transparent"
                 android:textColorHint="@color/white_75_transparent"
@@ -58,7 +60,7 @@
             android:id="@+id/passwordWrapper"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_below="@id/usernameWrapper"
+
             android:layout_marginTop="4dp">
 
             <EditText
@@ -81,20 +83,22 @@
         android:orientation="vertical"
         android:padding="50dp"
 
+
         >
 
         <Button
             android:id="@+id/button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
             android:text="SIGN IN"
-
             android:textColor="#2F95DC" />
 
         <TextView
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
             android:text="Don't have an account? Sign up!"
             android:textColor="#ffffff" />
 

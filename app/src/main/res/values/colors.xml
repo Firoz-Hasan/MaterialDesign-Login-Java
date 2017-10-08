@@ -3,4 +3,28 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#ff000000</color>
+    <color name="black_6_transparent">#0f000000</color>
+    <color name="black_10_transparent">#1a000000</color>
+    <color name="black_25_transparent">#40000000</color>
+    <color name="black_30_transparent">#4d000000</color>
+    <color name="black_40_transparent">#66000000</color>
+    <color name="black_50_transparent">#80000000</color>
+    <color name="black_80_transparent">#cd000000</color>
+    <color name="black_95_transparent">#f2000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey_7_transparent">#0025272a</color>
+    <color name="grey_5_50_transparent">#804b4f54</color>
+    <color name="white_97_transparent">#f7ffffff</color>
+    <color name="white_90_transparent">#e6ffffff</color>
+    <color name="white_80_transparent">#ccffffff</color>
+    <color name="white_75_transparent">#bfffffff</color>
+    <color name="white_70_transparent">#b3ffffff</color>
+    <color name="white_55_transparent">#8cffffff</color>
+    <color name="white_50_transparent">#80ffffff</color>
+    <color name="white_30_transparent">#4dffffff</color>
+    <color name="white_20_transparent">#33ffffff</color>
+    <color name="white_10_transparent">#1affffff</color>
+    <color name="white_5_transparent">#0dffffff</color>
 </resources>
